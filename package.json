@@ -2,7 +2,7 @@
   "name": "mediumclone-nestjs",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Syed Muhammad Ashar Saghir <saghirashar@gmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
